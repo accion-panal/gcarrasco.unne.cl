@@ -34,7 +34,7 @@ const AboutComponent = () => {
               y exitosa en todo el proceso.
               <br />
               <br />
-              Con un enfoque centrado en la satisfacción del cliente, nos comprometemos a 
+              Nuestro objetivo es la satisfacción del cliente, nos comprometemos a 
               proporcionar un servicio de calidad que supere sus expectativas. 
               Estamos aquí para acompañarlos en cada paso del camino, ofreciendo soluciones 
               efectivas y brindando la tranquilidad necesaria para que puedan alcanzar sus 
@@ -42,10 +42,10 @@ const AboutComponent = () => {
               sueños de venta, compra o arriendo de propiedades con profesionalismo y dedicación.
             </p>
             <p className="text-lg xl:text-xl text-gray-700 mt-8 ml-0 xl:ml-1 md:text-center xl:text-left">
-              Gloria Pilar Carrasco.
+              Gloria Pilar Carrasco Quijada.
             </p>
             <p className="text-xl xl:text-xl text-gray-700 ml-0 xl:ml-1 md:text-center xl:text-left">
-              Fundadora de CQ Inmobiliaria y Corredor de Propiedades SpA.
+              Fundadora de CQ Inmobiliaria y Corredor de Propiedades.
             </p>
           </div>
         </div>

@@ -8,7 +8,7 @@ export const mainCarouselData = [
   {
     id: 1,
     title: 'CQ Inmobiliaria y Corredor de Propiedades',
-    desc: 'Encuentrarás un servicio especial y personalizado',
+    desc: 'Encontrarás un servicio especial y personalizado',
     img: 'https://res.cloudinary.com/dvdb33uyj/image/upload/v1689975597/Projects/unne/img/hero/tramite2.jpg',
   },
   {
